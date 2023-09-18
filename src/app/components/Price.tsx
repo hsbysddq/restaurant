@@ -1,7 +1,11 @@
 import React from "react"
 
 const Price = () => {
-  return <div>Price</div>
+  return (
+    <div>
+      <h2></h2>
+    </div>
+  )
 }
 
 export default Price
