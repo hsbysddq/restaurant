@@ -32,7 +32,7 @@ const CartPage = () => {
         <div className="flex items-center justify-between mb-4">
           <Image src="/temporary/p1.png" alt="" width={100} height={100} />
           <div className="">
-            <h1 className="uppercase text-xl font-bold">sicilian</h1>
+            <h1 className="uppercase text-xl font-bold">Sicilian</h1>
             <span>Large</span>
           </div>
           <h2 className="font-bold">$79.99</h2>
