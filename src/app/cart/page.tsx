@@ -24,7 +24,7 @@ const CartPage = () => {
             <h1 className="uppercase text-xl font-bold">sicilian</h1>
             <span>Large</span>
           </div>
-          <h2 className="font-bold">$79.99</h2>
+          <h2 className="font-bold">$79.00</h2>
           <span className="cursor-pointer">x</span>
         </div>
 
